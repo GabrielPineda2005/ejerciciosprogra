@@ -24,3 +24,6 @@ Este repositorio contiene una colección de ejercicios básicos de Java que cubr
 2. Compila cada archivo Java usando el siguiente comando:
    ```bash
    javac nombre_del_archivo.java
+
+## Autor
+Gabriel Pineda
